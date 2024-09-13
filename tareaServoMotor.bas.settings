@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DocumentSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FindHistory>
+    <string>b1&lt;</string>
+    <string>b1&gt;</string>
+    <string>&gt;=</string>
+    <string>y &lt;</string>
+    <string>servopos 4</string>
+    <string>servo 4</string>
+    <string>pause 30</string>
+    <string>2000</string>
+  </FindHistory>
+  <ReplaceHistory>
+    <string>b2&lt;</string>
+    <string>b2&gt;</string>
+    <string>b1&gt;=</string>
+    <string>and b1&lt;</string>
+    <string>servopos 3</string>
+    <string>servopos 4</string>
+    <string>pause 3000</string>
+    <string>servo 3</string>
+    <string>30</string>
+  </ReplaceHistory>
+  <ReplaceSearchHistory />
+  <Bookmarks />
+  <BreakPoints />
+  <SelectedLine>0</SelectedLine>
+  <SelectedColumn>0</SelectedColumn>
+  <CaretOffset>971</CaretOffset>
+  <BottomVerticalSplitterPosition>0</BottomVerticalSplitterPosition>
+  <TopVerticalSplitterPosition>0</TopVerticalSplitterPosition>
+  <HorizontalSplitterPosition>0</HorizontalSplitterPosition>
+</DocumentSettings>
